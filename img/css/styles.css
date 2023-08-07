@@ -24,7 +24,7 @@
 
 
 
-/*este es el header en el menu*/
+/*este es el header en menu*/
 
 .logo{
     max-height: 80px;
@@ -95,7 +95,7 @@ li.menu-item :hover {
 
 }
 
-/* esto es para darle estilo al interruptor*/
+/* en esta parte se le da el estilo al interruptor*/
 
 .theme-checkbox {
     --toggle-size: 16px;
@@ -146,7 +146,7 @@ li.menu-item :hover {
 
 
 
-/* empiezo la section inicio*/
+/*  section inicio*/
 
 
 body{
@@ -162,6 +162,7 @@ body{
     width: 300px;
     height: 300px;
     border-radius: 50%;
+    border: solid 7px;
     object-fit: cover;
     margin-top: 150px;
     margin-bottom: 40px;
@@ -243,7 +244,7 @@ a {
     font-size: 20px;
     display: inline-block;
     padding: 10px 20px;
-    border: solid 50;
+    border: solid 5px;
     border-color: #fbfefc;
     border-radius: 20px;
     text-align: center;
@@ -253,7 +254,7 @@ a {
 
 
 
-/*Empezamos la seccion contacto*/
+/*seccion contacto*/
 
 
 #contacto{
@@ -263,7 +264,7 @@ a {
     margin-bottom: 30px;
     border-radius: 70px;
     background-color: #ffffff;
-    border: solid 10;
+    border: solid 10px;
 }
 
 
@@ -288,7 +289,7 @@ a {
  }
 
  .iconos a img {
-    max-width: 70%;
+    max-width: 40%;
     height: auto;
     
     justify-content:space-between;
